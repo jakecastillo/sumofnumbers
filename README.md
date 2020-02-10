@@ -1,2 +1,2 @@
 # sumofnumbers
- ICS 314
+ICS 314
